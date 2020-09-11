@@ -15,7 +15,7 @@ This is a wireframe for a “coming soon” fansite page for those who are as ob
 
 ##### A page that highlights some of the main accomplishments that this magnificent human being has had throught his life. Along with some *motivational* content that showcases The Rocks core values. 
 
-## Installation
+### Installation
 
 1. `git clone` this repo
    `sh git clone https://github.com/your_username_/Project-Name.git `
