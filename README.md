@@ -35,7 +35,7 @@ Any contributions you make are **greatly appreciated**.
 <!-- CONTACT -->
 ## Contact
 
-Jeannie Torres - [https://www.linkedin.com/in/jeannie-torres/] - jeanniet89@gmail.com
+Jeannie Torres - [jeanniet89@gmail.com] 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
