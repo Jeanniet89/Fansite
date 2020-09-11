@@ -11,7 +11,7 @@
 - [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
-This is a “coming soon” fansite page for those who are as obsessed as I am with Dwayne Johnson. 
+This is a wireframe for a “coming soon” fansite page for those who are as obsessed as I am with Dwayne Johnson. 
 
 ##### A page that highlights some of the main accomplishments that this magnificent human being has had throught his life. Along with some *motivational* content that showcases The Rocks core values. 
 
